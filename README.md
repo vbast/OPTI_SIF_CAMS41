@@ -11,4 +11,6 @@ Parameters <img src="https://latex.codecogs.com/svg.latex?a"/> and <img src="htt
 * data split into latitude bands (90N-30N, 30N-10S, 10S-90S);
 * independent parameter optimization for different seasons (JFD, MAM, JJA, SON).
 
+For more information see the wiki-page : [Wiki](https://github.com/vbast/OPTI_SIF_CAMS41/wiki/)
+
 Authors: Vladislav Bastrikov, Philippe Peylin<br>Laboratoire des Sciences du Climat et de l’Environnement, Gif-sur-Yvette, France
