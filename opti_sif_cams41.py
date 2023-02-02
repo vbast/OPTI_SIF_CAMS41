@@ -5,7 +5,7 @@
 # Import main libraries
 import numpy as np, netCDF4, os, sys
 from optparse import OptionParser
-
+import  numpy
 # Boolean 'TRUE' flag possible notations
 ok_flags = ["y", "yes", "true"]
 
